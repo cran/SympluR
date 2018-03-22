@@ -1,7 +1,7 @@
 Package: SympluR
 Type: Package
 Title: Analyze Healthcare Social Media Data from the 'Symplur' API
-Version: 0.2.0
+Version: 0.3.0
 Author: Audun Utengen
 Maintainer: Audun Utengen <audun@symplur.com>
 Description: Analyze data from the 'Healthcare Social Graph' via access to the 'Symplur' API.
@@ -16,6 +16,6 @@ LazyData: true
 RoxygenNote: 6.0.1.9000
 Imports: jsonlite, httr, plyr, readr
 NeedsCompilation: no
-Packaged: 2018-03-13 20:10:54 UTC; audun
+Packaged: 2018-03-22 02:19:21 UTC; audun
 Repository: CRAN
-Date/Publication: 2018-03-13 20:14:57 UTC
+Date/Publication: 2018-03-22 04:48:09 UTC
